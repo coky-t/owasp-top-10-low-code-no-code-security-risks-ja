@@ -12,6 +12,10 @@ This is the unofficial Japanese translation of the [OWASP Top 10 Low-Code/No-Cod
 * [OWASP Top 10 ローコード/ノーコードセキュリティリスク](Document/index.md)
 * [リーダー](Document/leaders.md)
 
+## License
+
+[Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)
+
 ## Author (日本語訳)
 
 [Koki Takeyama](https://github.com/coky-t)
