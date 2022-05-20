@@ -2,10 +2,10 @@
 layout: col-sidebar
 title: Top 10 ローコード/ノーコードセキュリティリスク
 site_side: true
-tags: low-code-no-code
+tags: low-code no-code
 level: 2
+project: true
 type: documentation
-auto-migrated: 0
 pitch: "OWASP Top 10 ローコード/ノーコードセキュリティリスク" ドキュメントの主な目的は、ローコード/ノーコードアプリケーションを採用し開発しようとしている組織に対して、支援と教育を提供することです。このガイドではこのようなアプリケーションの最も顕著なセキュリティリスク、関連する課題、およびそれらを克服する方法についての情報を提供します。
 ---
 
