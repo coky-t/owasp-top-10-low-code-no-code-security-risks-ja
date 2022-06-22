@@ -9,7 +9,7 @@ pitch: "OWASP Top 10 ローコード/ノーコードセキュリティリスク"
 
 ---
 
-<img src="assets/images/owasp-lcnc.png" width="500" height="250" />
+<a href="https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"><img src="assets/images/owasp-lcnc.png" alt="OWASP Top 10 for Low-Code/No-Code Apps" width="500" height="250" /></a>
 
 [![stars](https://img.shields.io/github/stars/OWASP/www-project-top-10-low-code-no-code-security-risks?icon=github&style=social)](https://github.com/OWASP/www-project-top-10-low-code-no-code-security-risks)
 [![twitter](https://img.shields.io/twitter/follow/OWASPNoCode?icon=twitter&style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=OWASPNoCode)
@@ -44,4 +44,4 @@ pitch: "OWASP Top 10 ローコード/ノーコードセキュリティリスク"
 ## プロジェクトスポンサー
 OWASP Top 10 ローコード/ノーコードセキュリティリスクは [Zenity](https://www.zenity.io/) の支援を受けています。
 <br>
-[![Zenity](assets/images/zenity-new-logo2.png)](https://www.zenity.io/)
+<a href="https://www.zenity.io"><img src="assets/images/zenity-logo.png" alt="Zenity.io" width="250" height="125" /></a>
