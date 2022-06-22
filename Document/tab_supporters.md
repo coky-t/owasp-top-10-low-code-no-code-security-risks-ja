@@ -18,4 +18,4 @@ tags: tmphide
 ## プロジェクトスポンサー
 OWASP Top 10 ローコード/ノーコードセキュリティリスクは [Zenity](https://www.zenity.io/) の支援を受けています。
 <br>
-[![Zenity](assets/images/zenity-new-logo2.png)](https://www.zenity.io/)
+<a href="https://www.zenity.io"><img src="assets/images/zenity-logo.png" alt="Zenity.io" width="250" height="125" /></a>
