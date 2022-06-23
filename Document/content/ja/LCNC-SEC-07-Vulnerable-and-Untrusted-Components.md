@@ -1,4 +1,4 @@
-# LCNC-SEC-07: 脆弱な、管理されていない、信頼されていないコンポーネント
+# LCNC-SEC-07: 脆弱で信頼できないコンポーネント
 
 ## リスク評価 [*](https://owasp.org/www-project-top-ten/2017/Note_About_Risks)
 
