@@ -4,10 +4,12 @@ displaytext: サポーター
 layout: null
 tab: true
 order: 3
-tags: tmphide
+tags: nocode
 ---
 
 ## 寄稿者
+
+プロジェクトに多大な貢献をした個人。
 
 | 氏名 | 所属 | 連絡先 |
 | --- | --- | --- |
