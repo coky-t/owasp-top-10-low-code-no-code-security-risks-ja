@@ -1,4 +1,4 @@
-# LCNC-SEC-01: ID の誤用
+# LCNC-SEC-01: アカウントのなりすまし
 
 ## リスク評価 [*](https://owasp.org/www-project-top-ten/2017/Note_About_Risks)
 
