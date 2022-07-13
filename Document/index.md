@@ -29,7 +29,7 @@ pitch: "OWASP Top 10 ローコード/ノーコードセキュリティリスク"
 
 ## リスト (初稿)
 
-1. [LCNC-SEC-01: ID の誤用](content/ja/LCNC-SEC-01-Identity-Misuse.md)
+1. [LCNC-SEC-01: アカウントのなりすまし](content/ja/LCNC-SEC-01-Account-Impersonation.md)
 2. [LCNC-SEC-02: 認可の誤用](content/ja/LCNC-SEC-02-Authorization-Misuse.md)
 3. [LCNC-SEC-03: データ漏洩と予期せぬ事態](content/ja/LCNC-SEC-03-Data-Leakage-and-Unexpected-Consequences.md)
 4. [LCNC-SEC-04: 認証とセキュア通信の不備](content/ja/LCNC-SEC-04-Authentication-and-Secure-Communication-Failures.md)
