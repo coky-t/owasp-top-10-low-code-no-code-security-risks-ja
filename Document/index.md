@@ -27,7 +27,7 @@ pitch: "OWASP Top 10 ローコード/ノーコードセキュリティリスク"
 このガイドではこのようなアプリケーションの最も顕著なセキュリティリスク、関連する課題、およびそれらを克服する方法についての情報を提供します。
 
 
-## リスト (初稿)
+## リスト
 
 1. [LCNC-SEC-01: アカウントのなりすまし](content/ja/LCNC-SEC-01-Account-Impersonation.md)
 2. [LCNC-SEC-02: 認可の誤用](content/ja/LCNC-SEC-02-Authorization-Misuse.md)
