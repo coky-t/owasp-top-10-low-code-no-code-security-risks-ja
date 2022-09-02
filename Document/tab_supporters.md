@@ -15,6 +15,7 @@ tags: nocode
 | --- | --- | --- |
 | Michael Bargury | Zenity | [Twitter](https://twitter.com/mbrg0) [LinkedIn](https://www.linkedin.com/in/michaelbargury/) |
 | Ory Segal | Palo Alto Networks | [Twitter](https://twitter.com/orysegal) [LinkedIn](https://www.linkedin.com/in/orysegal/) |
+| Don Willits | Microsoft | [LinkedIn](https://www.linkedin.com/in/don-willits-9081835/) |
 
 ## プロジェクトスポンサー
 OWASP Top 10 ローコード/ノーコードセキュリティリスクは [Zenity](https://www.zenity.io/) の支援を受けています。
