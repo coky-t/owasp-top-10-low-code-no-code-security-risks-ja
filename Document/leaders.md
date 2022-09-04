@@ -1,2 +1,2 @@
 ### リーダー
-* [Michael Bargury](mailto:michaelb@zenity.io)
+* [Michael Bargury](mailto:michael.bargury@owasp.org)
