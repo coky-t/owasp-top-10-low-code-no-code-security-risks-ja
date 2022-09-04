@@ -1,6 +1,6 @@
 ---
-title: サポーター
-displaytext: サポーター
+title: 寄稿者
+displaytext: 寄稿者
 layout: null
 tab: true
 order: 3
@@ -17,7 +17,8 @@ tags: nocode
 | Ory Segal | Palo Alto Networks | [Twitter](https://twitter.com/orysegal) [LinkedIn](https://www.linkedin.com/in/orysegal/) |
 | Don Willits | Microsoft | [LinkedIn](https://www.linkedin.com/in/don-willits-9081835/) |
 
-## プロジェクトスポンサー
+## スポンサー
+
 OWASP Top 10 ローコード/ノーコードセキュリティリスクは [Zenity](https://www.zenity.io/) の支援を受けています。
 <br>
 <a href="https://www.zenity.io"><img src="assets/images/zenity-logo.png" alt="Zenity.io" width="250" height="125" /></a>
