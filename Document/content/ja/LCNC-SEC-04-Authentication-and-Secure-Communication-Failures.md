@@ -1,4 +1,9 @@
-# LCNC-SEC-04: 認証とセキュア通信の不備
+---
+
+layout: col-sidebar
+title: "LCNC-SEC-04: 認証とセキュア通信の不備"
+
+---
 
 ## リスク評価 [*](https://owasp.org/www-project-top-ten/2017/Note_About_Risks)
 
