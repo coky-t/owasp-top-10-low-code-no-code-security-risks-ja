@@ -1,4 +1,9 @@
-# LCNC-SEC-05: セキュリティの設定ミス
+---
+
+layout: col-sidebar
+title: "LCNC-SEC-05: セキュリティの設定ミス"
+
+---
 
 ## リスク評価 [*](https://owasp.org/www-project-top-ten/2017/Note_About_Risks)
 
