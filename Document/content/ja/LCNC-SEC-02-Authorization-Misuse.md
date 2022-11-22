@@ -1,4 +1,9 @@
-# LCNC-SEC-02: 認可の誤用
+---
+
+layout: col-sidebar
+title: "LCNC-SEC-02: 認可の誤用"
+
+---
 
 ## リスク評価 [*](https://owasp.org/www-project-top-ten/2017/Note_About_Risks)
 
