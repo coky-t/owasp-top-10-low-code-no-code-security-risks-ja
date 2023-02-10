@@ -1,4 +1,4 @@
 # 目次
 
-* [OWASP Top 10 ローコード/ノーコードセキュリティリスク](index.md)
+* [OWASP ローコード/ノーコード Top 10](index.md)
 * [リーダー](leaders.md)
