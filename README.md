@@ -1,15 +1,15 @@
-# OWASP Top 10 Low-Code/No-Code Security Risks ja
+# OWASP Low-Code/No-Code Top 10 ja
 
-This is the unofficial Japanese translation of the [OWASP Top 10 Low-Code/No-Code Security Risks](https://github.com/OWASP/www-project-top-10-low-code-no-code-security-risks).
+This is the unofficial Japanese translation of the [OWASP Low-Code/No-Code Top 10](https://github.com/OWASP/www-project-top-10-low-code-no-code-security-risks).
 
 ### Originator
 
 - Project Site - <https://owasp.org/www-project-top-10-low-code-no-code-security-risks/>
 - Project Repository - <https://github.com/OWASP/www-project-top-10-low-code-no-code-security-risks>
 
-# OWASP Top 10 ローコード/ノーコードセキュリティリスク 日本語版
+# OWASP ローコード/ノーコード Top 10 日本語版
 
-* [OWASP Top 10 ローコード/ノーコードセキュリティリスク](Document/index.md)
+* [OWASP ローコード/ノーコード Top 10](Document/index.md)
 * [リーダー](Document/leaders.md)
 
 ## License
