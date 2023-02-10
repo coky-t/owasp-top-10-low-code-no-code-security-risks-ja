@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Top 10 Low-Code/No-Code Security Risks
+title: OWASP Low-Code/No-Code Top 10
 tags: nocode
 level: 2
 type: documentation
@@ -22,7 +22,7 @@ pitch: The primary goal of the "OWASP Top 10 Low-Code/No-Code Security Risks" do
 ローコード/ノーコードプラットフォームが普及し、組織で広く使われるようになると、そのようなプラットフォームで開発されたアプリケーションに関連するセキュリティやプライバシーのリスクに関する意識を高めることが、明確かつ緊急に必要となります。
 <br>
 <br>
-"OWASP Top 10 ローコード/ノーコードセキュリティリスク" ドキュメントの主な目的は、ローコード/ノーコードアプリケーションを採用し開発しようとしている組織に対して、支援と教育を提供することです。
+"OWASP ローコード/ノーコード Top 10" ドキュメントの主な目的は、ローコード/ノーコードアプリケーションを採用し開発しようとしている組織に対して、支援と教育を提供することです。
 このガイドではこのようなアプリケーションの最も顕著なセキュリティリスク、関連する課題、およびそれらを克服する方法についての情報を提供します。
 
 
@@ -38,9 +38,3 @@ pitch: The primary goal of the "OWASP Top 10 Low-Code/No-Code Security Risks" do
 8. [LCNC-SEC-08: データとシークレットの処理の不備](content/ja/LCNC-SEC-08-Data-and-Secret-Handling-Failures.md)
 9. [LCNC-SEC-09: 資産管理の不備](content/ja/LCNC-SEC-09-Asset-Management-Failures.md)
 10. [LCNC-SEC-10: セキュリティログと監視の不備](content/ja/LCNC-SEC-10-Security-Logging-and-Monitoring-Failures.md)
-
-
-## プロジェクトスポンサー
-OWASP Top 10 ローコード/ノーコードセキュリティリスクは [Zenity](https://www.zenity.io/) の支援を受けています。
-<br>
-<a href="https://www.zenity.io"><img src="assets/images/zenity-logo.png" alt="Zenity.io" width="250" height="125" /></a>
