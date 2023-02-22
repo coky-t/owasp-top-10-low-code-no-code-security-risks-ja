@@ -43,4 +43,5 @@ title: "LCNC-SEC-06: インジェクション処理の不備"
 
 ## 参考資料
 
+- [SOQL Injection](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/pages_security_tips_soql_injection.htm)
 - [A03:2021 – Injection, OWASP Top 10](https://owasp.org/Top10/A03_2021-Injection/)
