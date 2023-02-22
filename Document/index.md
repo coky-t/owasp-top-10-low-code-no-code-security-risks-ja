@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Low-Code/No-Code Top 10
 tags: nocode
-level: 2
+level: 3
 type: documentation
 pitch: The primary goal of the "OWASP Top 10 Low-Code/No-Code Security Risks" document is to provide assistance and education for organizations looking to adopt and develop Low-Code/No-Code applications. The guide provides information about what are the most prominent security risks for such applications, the challenges involved, and how to overcome them.
 
@@ -28,13 +28,13 @@ pitch: The primary goal of the "OWASP Top 10 Low-Code/No-Code Security Risks" do
 
 ## リスト
 
-1. [LCNC-SEC-01: アカウントのなりすまし](content/ja/LCNC-SEC-01-Account-Impersonation.md)
-2. [LCNC-SEC-02: 認可の誤用](content/ja/LCNC-SEC-02-Authorization-Misuse.md)
-3. [LCNC-SEC-03: データ漏洩と予期せぬ事態](content/ja/LCNC-SEC-03-Data-Leakage-and-Unexpected-Consequences.md)
-4. [LCNC-SEC-04: 認証とセキュア通信の不備](content/ja/LCNC-SEC-04-Authentication-and-Secure-Communication-Failures.md)
-5. [LCNC-SEC-05: セキュリティの設定ミス](content/ja/LCNC-SEC-05-Security-Misconfiguration.md)
-6. [LCNC-SEC-06: インジェクション処理の不備](content/ja/LCNC-SEC-06-Injection-Handling-Failures.md)
-7. [LCNC-SEC-07: 脆弱で信頼できないコンポーネント](content/ja/LCNC-SEC-07-Vulnerable-and-Untrusted-Components.md)
-8. [LCNC-SEC-08: データとシークレットの処理の不備](content/ja/LCNC-SEC-08-Data-and-Secret-Handling-Failures.md)
-9. [LCNC-SEC-09: 資産管理の不備](content/ja/LCNC-SEC-09-Asset-Management-Failures.md)
-10. [LCNC-SEC-10: セキュリティログと監視の不備](content/ja/LCNC-SEC-10-Security-Logging-and-Monitoring-Failures.md)
+1. [LCNC-SEC-01: アカウントのなりすまし](content/2022/ja/LCNC-SEC-01-Account-Impersonation.md)
+2. [LCNC-SEC-02: 認可の誤用](content/2022/ja/LCNC-SEC-02-Authorization-Misuse.md)
+3. [LCNC-SEC-03: データ漏洩と予期せぬ事態](content/2022/ja/LCNC-SEC-03-Data-Leakage-and-Unexpected-Consequences.md)
+4. [LCNC-SEC-04: 認証とセキュア通信の不備](content/2022/ja/LCNC-SEC-04-Authentication-and-Secure-Communication-Failures.md)
+5. [LCNC-SEC-05: セキュリティの設定ミス](content/2022/ja/LCNC-SEC-05-Security-Misconfiguration.md)
+6. [LCNC-SEC-06: インジェクション処理の不備](content/2022/ja/LCNC-SEC-06-Injection-Handling-Failures.md)
+7. [LCNC-SEC-07: 脆弱で信頼できないコンポーネント](content/2022/ja/LCNC-SEC-07-Vulnerable-and-Untrusted-Components.md)
+8. [LCNC-SEC-08: データとシークレットの処理の不備](content/2022/ja/LCNC-SEC-08-Data-and-Secret-Handling-Failures.md)
+9. [LCNC-SEC-09: 資産管理の不備](content/2022/ja/LCNC-SEC-09-Asset-Management-Failures.md)
+10. [LCNC-SEC-10: セキュリティログと監視の不備](content/2022/ja/LCNC-SEC-10-Security-Logging-and-Monitoring-Failures.md)
