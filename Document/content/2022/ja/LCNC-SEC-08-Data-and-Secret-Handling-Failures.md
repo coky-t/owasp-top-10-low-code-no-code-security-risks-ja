@@ -51,4 +51,5 @@ title: "LCNC-SEC-08: データとシークレットの処理の不備"
 
 ## 参考資料
 
+- [3 Ways No-Code Developers Can Shoot Themselves in the Foot](https://www.darkreading.com/dr-tech/3-ways-no-code-developers-can-shoot-themselves-in-the-foot)
 - [Establishing a DLP strategy](https://docs.microsoft.com/en-us/power-platform/guidance/adoption/dlp-strategy)
