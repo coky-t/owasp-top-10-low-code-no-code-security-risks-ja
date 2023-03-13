@@ -25,7 +25,6 @@ pitch: The primary goal of the "OWASP Top 10 Low-Code/No-Code Security Risks" do
 "OWASP ローコード/ノーコード Top 10" ドキュメントの主な目的は、ローコード/ノーコードアプリケーションを採用し開発しようとしている組織に対して、支援と教育を提供することです。
 このガイドではこのようなアプリケーションの最も顕著なセキュリティリスク、関連する課題、およびそれらを克服する方法についての情報を提供します。
 
-
 ## リスト
 
 1. [LCNC-SEC-01: アカウントのなりすまし](content/2022/ja/LCNC-SEC-01-Account-Impersonation.md)
