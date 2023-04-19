@@ -39,9 +39,11 @@ title: "LCNC-SEC-06: インジェクション処理の不備"
 ## 防止方法
 
 - アプリケーションでその入力に対して実行される操作を考慮して、ユーザー入力をサニタイズする。
+- SQL でのデータベース連携にはクエリパラメータ、ストアドプロシージャ、エスケープも使用する。
 - サニタイズされていないユーザー入力のリスクについてビジネスユーザーに教育する。プラットフォームはこの問題を自然に解消することはできません。
 
 ## 参考資料
 
 - [SOQL Injection](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/pages_security_tips_soql_injection.htm)
 - [A03:2021 – Injection, OWASP Top 10](https://owasp.org/Top10/A03_2021-Injection/)
+- [Robot Framework / RPA Framework SQL injection example & prevention](https://aabashkin.github.io/posts/rf_sqli#a-modern-example-with-a-low-code--rpa-platform)
