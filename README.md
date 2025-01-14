@@ -16,6 +16,6 @@ This is the unofficial Japanese translation of the [OWASP Low-Code/No-Code Top 1
 
 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)
 
-## Author (日本語訳)
+## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
