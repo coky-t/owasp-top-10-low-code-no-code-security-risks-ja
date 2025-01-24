@@ -23,7 +23,6 @@ This is the unofficial Japanese translation of the [OWASP Low-Code/No-Code Top 1
 * [LCNC-SEC-09: 資産管理の不備](Document/content/2022/ja/LCNC-SEC-09-Asset-Management-Failures.md)
 * [LCNC-SEC-10: セキュリティログと監視の不備](Document/content/2022/ja/LCNC-SEC-10-Security-Logging-and-Monitoring-Failures.md)
 
-
 ## License
 
 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)
