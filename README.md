@@ -7,7 +7,7 @@ This is the unofficial Japanese translation of the [OWASP Low-Code/No-Code Top 1
 - Project Site - <https://owasp.org/www-project-top-10-low-code-no-code-security-risks/>
 - Project Repository - <https://github.com/OWASP/www-project-top-10-low-code-no-code-security-risks>
 
-# OWASP ローコード/ノーコード Top 10 日本語版
+## OWASP ローコード/ノーコード Top 10 日本語版
 
 * [OWASP ローコード/ノーコード Top 10](Document/index.md)
 * [リーダー](Document/leaders.md)
